@@ -1,6 +1,10 @@
+# ############################################################################
+# file_input cards.py
+# Programmation Orienté Objet (POO) TP2 - Polytech Sorbonne - 2024/2025 - S7
+# Auteurs : Vasileios Filippos Skarleas, Rami Aridi - Tous droits réservés.
+# ############################################################################
+
 """User Interface"""
-
-
 import cards
 from random import shuffle, randint
 
