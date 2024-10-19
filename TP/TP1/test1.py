@@ -1,3 +1,9 @@
+# ############################################################################
+# file_input test1.py
+# Programmation Orienté Objet (POO) TP1 - Polytech Sorbonne - 2024/2025 - S7
+# Auteurs : Vasileios Filippos Skarleas, Rami Aridi - Tous droits réservés.
+# ############################################################################
+
 """Execute les fonctions de la deuxieme partie"""
 
 import matplotlib.pyplot as plt
