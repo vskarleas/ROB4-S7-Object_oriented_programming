@@ -1,0 +1,33 @@
+@startuml
+class Point {
+    afficher()
+        x
+    y
+    couleur
+}
+
+class Vecteur {
+    __add__()
+    __sub__()
+    __truediv__()
+    __str__()
+    dessiner()
+    initialisation()
+    afficher()
+        point_1
+    point_2
+    couleur
+}
+
+class Triangle {
+    tourner_triangle()
+    afficher_triangle()
+    deplacer()
+        point1
+    point2
+    point3
+}
+
+Triangle <|-- Point
+Vecteur <|-- Point
+@enduml

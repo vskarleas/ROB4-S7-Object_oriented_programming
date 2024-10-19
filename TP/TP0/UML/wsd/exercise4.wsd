@@ -1,0 +1,42 @@
+@startuml
+class Couleur {
+        red
+    green
+    blue
+}
+
+class Vecteur {
+    initialisation()
+    addition()
+    norme()
+    produit_scalaire()
+    tourner()
+    afficher()
+        x
+        y
+        z
+}
+
+class Triangle {
+    tourner_triangle()
+    afficher_triangle()
+    deplacer_triangle()
+        point1 
+        point2 
+        point3 
+ 
+}
+
+class Objet3D {
+    afficher_objet()
+    ajouter_triangle()
+    deplacer()
+        couleur
+    centre_gravite
+    centre_gravite
+}
+
+Triangle <|-- Vecteur
+Objet3D <|-- Couleur
+Objet3D <|-- Triangle
+@enduml

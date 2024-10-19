@@ -1,0 +1,21 @@
+@startuml
+class Point {
+    afficher()
+        x
+    y
+    couleur
+}
+class Vecteur {
+    __add__()
+    __sub__()
+    __truediv__()
+    __str__()
+    dessiner()
+    initialisation()
+    afficher()
+        point_1
+    point_2
+    couleur
+}
+Vecteur <|-- Point
+@enduml

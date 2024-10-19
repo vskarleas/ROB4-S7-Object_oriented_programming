@@ -1,0 +1,28 @@
+@startuml
+class De {
+    lancer()
+    valeur()
+    valeur_str()
+        current_face
+    current_face
+}
+class Joueur {
+    lancer_des()
+    afficher_des()
+        nom
+        score
+        des
+
+}
+class Jeu {
+    ajouter_joueur()
+    combinaisons()
+    afficher_scores()
+    on_va_jouer()
+        gagnant
+        joueurs
+    
+}
+Joueur <|-- De
+Jeu <|-- Joueur
+@enduml

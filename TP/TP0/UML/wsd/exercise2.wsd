@@ -1,0 +1,13 @@
+@startuml
+class Vecteur {
+    initialisation()
+    addition()
+    norme()
+    produit_scalaire()
+    tourner()
+    afficher()
+        x
+    y
+    z
+}
+@enduml
