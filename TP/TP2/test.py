@@ -1,3 +1,9 @@
+# ############################################################################
+# file_input test.py
+# Programmation Orienté Objet (POO) TP2 - Polytech Sorbonne - 2024/2025 - S7
+# Auteurs : Vasileios Filippos Skarleas, Rami Aridi - Tous droits réservés.
+# ############################################################################
+
 """Main program for the gane"""
 from cards import Joueur, distribute_card
 import ui
