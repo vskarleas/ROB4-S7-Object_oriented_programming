@@ -1,3 +1,9 @@
+# ############################################################################
+# file_input exercise4.py
+# Programmation Orienté Objet (POO) TP0 - Polytech Sorbonne - 2024/2025 - S7
+# Auteurs : Vasileios Filippos Skarleas, Yanis Sadoun - Tous droits réservés.
+# ############################################################################
+
 """This is the fourth exercise"""
 
 from exercise2 import Vecteur
