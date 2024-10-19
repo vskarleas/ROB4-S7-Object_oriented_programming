@@ -33,4 +33,4 @@ Throughout this course, you will learn how to design and implement software syst
 
 **ROB4-S7-POO** © 2024 by **Vasileios Filippos Skarleas** and **Rami Aridi** is licensed under the [Creative Commons Attribution-NonCommercial 4.0 International](https://creativecommons.org/licenses/by-nc/4.0/). 
 
-This work also includes content that is not the property of **Vasileios Filippos Skarleas** and **Rami Aridi** and is subject to copyright and other licenses from their respective owners.
+This work also includes content that is not the property of **Vasileios Filippos Skarleas** and **Rami Aridi** and is subject to copyright and other licenses from their respective owners
