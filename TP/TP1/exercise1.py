@@ -1,3 +1,9 @@
+# ############################################################################
+# file_input exercise1.py
+# Programmation Orienté Objet (POO) TP1 - Polytech Sorbonne - 2024/2025 - S7
+# Auteurs : Vasileios Filippos Skarleas, Rami Aridi - Tous droits réservés.
+# ############################################################################
+
 """This is the first exercise"""
 
 from multipledispatch import dispatch
