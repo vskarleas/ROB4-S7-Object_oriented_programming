@@ -1,3 +1,9 @@
+# ############################################################################
+# file_input exercise1.py
+# Programmation Orienté Objet (POO) TP0 - Polytech Sorbonne - 2024/2025 - S7
+# Auteurs : Vasileios Filippos Skarleas, Yanis Sadoun - Tous droits réservés.
+# ############################################################################
+
 """This is the first exercise"""
 
 class Algebre(): # pylint doesn't like 'object' in parenthesis
