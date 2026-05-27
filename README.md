@@ -1,8 +1,17 @@
 # Object-Oriented Programming (POO) Module
 
-## Français
+[English](#english) | [Français](#français)
 
-Bienvenue dans le dépôt du module de **Programmation Orientée Objet (POO)**. Ce module couvre les concepts et techniques clés pour maîtriser la programmation orientée objet.
+## Authors
+
+* Rami Aridi
+* Vasileios Filippos Skarleas
+
+---
+
+# Français
+
+Bienvenue dans le dépôt du module de Programmation Orientée Objet (POO). Ce module couvre les concepts et techniques clés pour maîtriser la programmation orientée objet.
 
 ### Sujets abordés :
 - Héritage
@@ -15,9 +24,9 @@ Au cours de ce module, vous apprendrez à concevoir et implémenter des système
 
 ---
 
-## English
+# English
 
-Welcome to the repository for the **Object-Oriented Programming (POO)** course. This module covers key concepts and techniques essential for mastering object-oriented programming.
+Welcome to the repository for the Object-Oriented Programming (POO) course. This module covers key concepts and techniques essential for mastering object-oriented programming.
 
 ### Topics Covered:
 - Inheritance
@@ -31,6 +40,6 @@ Throughout this course, you will learn how to design and implement software syst
 
 ### License Information
 
-**ROB4-S7-POO** © 2024 by **Vasileios Filippos Skarleas** and **Rami Aridi** is licensed under the [Creative Commons Attribution-NonCommercial 4.0 International](https://creativecommons.org/licenses/by-nc/4.0/). The content inside TP/TP0 is co-developed with **Yanis Sadoun**. 
+ROB4-S7-POO © 2024 by Vasileios Filippos Skarleas** and Rami Aridi is licensed under the [Creative Commons Attribution-NonCommercial 4.0 International](https://creativecommons.org/licenses/by-nc/4.0/). The content inside TP/TP0 is co-developed with Yanis Sadoun. 
 
-This work also includes content that is not the property of **Vasileios Filippos Skarleas** and **Rami Aridi** and is subject to copyright and other licenses from their respective owners
+This work also includes content that is not the property of the authors and is subject to copyright and other licenses from their respective owners
