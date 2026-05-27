@@ -1,4 +1,4 @@
-# Object-Oriented Programming (POO) Module
+# ROB4-S7: Object-Oriented Programming (POO)
 
 [English](#english) | [Français](#français)
 
